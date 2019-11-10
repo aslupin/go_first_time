@@ -1,1 +1,1 @@
-# go_workshop_ku
+# poc for learning GO.
